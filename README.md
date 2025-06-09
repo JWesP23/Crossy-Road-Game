@@ -31,7 +31,7 @@ A Python Game inspired by Crossy Road that uses the turtle package
 ## How to Run
 
 ```bash
-git clone https://github.com/yourusername/turtle-crossing.git
-cd turtle-crossing
+git clone https://github.com/JWesP23/Crossy-Road-Game.git
+cd Crossy-Road-Game
 python main.py
 ```
