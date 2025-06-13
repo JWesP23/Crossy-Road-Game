@@ -1,6 +1,10 @@
 # Crossy Road Game
 A Python Game inspired by Crossy Road that uses the turtle package
 
+## Preview
+
+![Turtle Crossing Example](Turtle_Crossing_Preview.png)
+
 ## Features
 
 - Arrow or WASD key movement
